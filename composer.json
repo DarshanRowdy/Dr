@@ -1,10 +1,10 @@
 {
     "name": "devdr/dr",
-    "description": "This demo package will do some calculations",
+    "description": "This is demo package",
     "authors": [
         {
             "name": "Darshan",
-            "email": "darshan@technostacks.com"
+            "email": "darshanrathod.info@gmail.com"
         }
     ],
     "require": {}
